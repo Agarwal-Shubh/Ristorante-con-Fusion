@@ -57,3 +57,11 @@ body{
     left: 0;
     min-height: 300px;
 }
+.b-color-green{
+    background: green;
+    color: white;
+}
+.b-color-red{
+    background-color: red;
+    color: white;
+}
